@@ -26,5 +26,10 @@ This dataset has records from 1946 to 2026 of over 45 countries and 9 spending c
 2. Russia  had a negative correlation between their spending. As defense grew - education fell; couldn't fund both
 3. The 2008 crisis: countries like China, Greece, Spain increased their education and health and countries like USA, Germany etc. kept their budget allocation to defense as stable.
 
+# Sample Visuals
+
+![img](https://github.com/Grish-hash/Global_budget/blob/main/Screenshot%202026-09-28%20203548.png)
+
+
 
 
