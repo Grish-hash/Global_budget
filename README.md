@@ -29,6 +29,9 @@ This dataset has records from 1946 to 2026 of over 45 countries and 9 spending c
 # Sample Visuals
 
 ![img](https://github.com/Grish-hash/Global_budget/blob/main/Screenshot%202026-09-28%20203548.png)
+![img2](https://github.com/Grish-hash/Global_budget/blob/main/Screenshot%202026-09-28%20203613.png)
+![img3](https://github.com/Grish-hash/Global_budget/blob/main/Screenshot%202026-09-28%20203622.png)
+![img4](https://github.com/Grish-hash/Global_budget/blob/main/Screenshot%202026-09-28%20203652.png)
 
 
 
